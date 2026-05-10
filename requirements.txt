@@ -1,0 +1,30 @@
+# 基础依赖
+requests==2.31.0
+beautifulsoup4==4.12.2
+lxml==4.9.3
+
+# 浏览器自动化
+selenium==4.15.2
+webdriver-manager==4.0.1
+
+# 音频处理
+pydub==0.25.1
+mutagen==1.47.0
+
+# 数据处理
+pandas==2.1.4
+numpy==1.26.3
+
+# 定时任务
+schedule==1.2.0
+
+# 数据库
+sqlalchemy==2.0.23
+
+# 日志（Python内置）
+
+# 时间处理
+python-dateutil==2.8.2
+
+# JSON处理
+json5==0.9.14
