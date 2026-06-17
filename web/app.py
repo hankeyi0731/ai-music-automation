@@ -23,7 +23,7 @@ def load_config():
     try:
         config = {
             'ALIYUN_LLM_CONFIG': {
-                'api_key': 'sk-f330f75242fa4d59ac5d383ca8957dd1',
+                'api_key': 'sk-your-key',
                 'base_url': 'https://dashscope.aliyuncs.com/api/v1/services/aigc/text-generation/generation',
                 'models': {
                     'qwen_flash': 'qwen-flash',
